@@ -1,0 +1,15 @@
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\Criando App com POO\bin\Debug\net7.0\screenSound.exe
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\Criando App com POO\bin\Debug\net7.0\screenSound.deps.json
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\Criando App com POO\bin\Debug\net7.0\screenSound.runtimeconfig.json
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\Criando App com POO\bin\Debug\net7.0\screenSound.dll
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\Criando App com POO\bin\Debug\net7.0\screenSound.pdb
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\Criando App com POO\obj\Debug\net7.0\screenSound.csproj.AssemblyReference.cache
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\Criando App com POO\obj\Debug\net7.0\screenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\Criando App com POO\obj\Debug\net7.0\screenSound.AssemblyInfoInputs.cache
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\Criando App com POO\obj\Debug\net7.0\screenSound.AssemblyInfo.cs
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\Criando App com POO\obj\Debug\net7.0\screenSound.csproj.CoreCompileInputs.cache
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\Criando App com POO\obj\Debug\net7.0\screenSound.dll
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\Criando App com POO\obj\Debug\net7.0\refint\screenSound.dll
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\Criando App com POO\obj\Debug\net7.0\screenSound.pdb
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\Criando App com POO\obj\Debug\net7.0\screenSound.genruntimeconfig.cache
+C:\Users\17297\Documents\Cursos alura\Estudos_emC#\Criando App com POO\obj\Debug\net7.0\ref\screenSound.dll
